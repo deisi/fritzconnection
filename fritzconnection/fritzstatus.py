@@ -7,7 +7,7 @@ fritzstatus.py
 Modul to read status-informations from an AVM FritzBox.
 """
 
-__version__ = '0.4.5'
+__version__ = '0.4.6'
 
 import argparse
 import collections
